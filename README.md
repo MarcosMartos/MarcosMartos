@@ -1,6 +1,6 @@
 ## Hola :wave:
 
-Mi nombres es Marcos, soy de Argentina y soy Desarrollador.
+Mi nombre es Marcos, soy de Argentina y soy Desarrollador.
 
 - Actualemnte estudio en la [Universidad Tencológica Nacional FRSR](https://www.frsr.utn.edu.ar/) una tecnicatura universitaria en programación.
 - Soy estudiante de la carrera de desarrollo full-stack de [Coderhouse](https://www.coderhouse.com/)
@@ -8,8 +8,8 @@ Mi nombres es Marcos, soy de Argentina y soy Desarrollador.
 
 ## Tecnologías
 
-- HTML
-- CSS
+- Html
+- Css
 - Javascript
 - React JS
 - Node JS
