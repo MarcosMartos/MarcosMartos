@@ -6,6 +6,24 @@ Mi nombre es Marcos, soy de Argentina y soy Desarrollador.
 - Soy estudiante de la carrera de desarrollo full-stack de [Coderhouse](https://www.coderhouse.com/)
 - Desarrollo mis proyectos personales [Portafolio](https://marcosmartos-developer.netlify.app/)
 
+  ```javascript
+const MarcosMartos = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "React", "Python", "Java", "Node JS"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["tailwind", "bootstrap", "sass"]
+        },
+        backEnd: {
+            js: ["node", "express"]
+        },
+        databases: ["mongo", "MySql", "Firebase"],
+    },
+};
+```
+
 ## Tecnologías
 
 - Html
