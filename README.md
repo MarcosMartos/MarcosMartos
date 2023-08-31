@@ -34,8 +34,8 @@ const MarcosMartos = {
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
 </p>
 
-## Contacto
+## Contact
 
 [![Linkedin: MarcosMartos](https://img.shields.io/badge/-marcosmartos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-martos-080305239/)](<[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/marcos-martos-080305239/)>)
 
-Podes contactarme a través de mi correo electrónico **marcosmartostuvi@gmail.com** :email:
+Contact me through my email: **marcosmartostuvi@gmail.com** :email:
